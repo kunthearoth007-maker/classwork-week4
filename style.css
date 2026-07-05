@@ -244,7 +244,7 @@ nav a.active {
 /* Header section on the Courses page */
 .page-title {
   /* Hint: Center-align all text */
-  align-items: center;
+  text-align: center;
   /* Hint: Set padding to 60px top, 20px left/right, 35px bottom */
   padding: 60px 20px 35px 20px;
 }
